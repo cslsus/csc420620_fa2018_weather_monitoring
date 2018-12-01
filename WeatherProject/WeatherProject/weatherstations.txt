@@ -1,0 +1,27 @@
+  {
+    "id": 4341513,
+    "name": "Shreveport",
+    "country": "US",
+    "coord": {
+      "lon": -93.750183,
+      "lat": 32.52515
+    }
+  },
+  {
+    "id": 4317639,
+    "name": "Bossier City",
+    "country": "US",
+    "coord": {
+      "lon": -93.732117,
+      "lat": 32.515991
+    }
+  },
+  {
+    "id": 4052923,
+    "name": "Caddo",
+    "country": "US",
+    "coord": {
+      "lon": -87.140007,
+      "lat": 34.56926
+    }
+  },
